@@ -1,4 +1,9 @@
 # Movie-Rating-Prediction-from-IMDB-Dataset
+
+![best-movies-1614634680](https://user-images.githubusercontent.com/36461648/115911918-b36a1900-a43c-11eb-8a8d-dc7fcca09ad4.jpg)
+
+
+
 # Methodology:
 1- We used a dataset that only includes movies after the year 2000. We narrowed down the movies that had at least 10,000 raters and a budget of at least 10,000 USD.
 
