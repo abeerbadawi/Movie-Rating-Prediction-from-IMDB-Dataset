@@ -1,1 +1,1 @@
-# MoviMovie-Rating-Prediction-from-IMDB-Dataset
+# Movie-Rating-Prediction-from-IMDB-Dataset
