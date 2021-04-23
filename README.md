@@ -1,4 +1,5 @@
 # Movie-Rating-Prediction-from-IMDB-Dataset
+# Machine learning classification problem
 
 ![best-movies-1614634680](https://user-images.githubusercontent.com/36461648/115911918-b36a1900-a43c-11eb-8a8d-dc7fcca09ad4.jpg)
 
